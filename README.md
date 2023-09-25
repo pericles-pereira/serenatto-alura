@@ -4,4 +4,4 @@
 
 Projeto realizado durante as aulas do curso "PHP e MySQL: criando sua primeira aplicação web" da Alura.
 
-![](https://i.imgur.com/zUBh3Ba.png)
+![imagem-projeto](https://i.imgur.com/zUBh3Ba.png)
